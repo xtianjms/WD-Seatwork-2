@@ -69,12 +69,19 @@ The purpose of this website is to present my resume, skills, and achievements. T
 - What are key components
 
 Home Section - Introduces visitors to the website with a welcoming message.
+
 About Section - Provides information about myself.
+
 Resume Section - Contains a link to view my resume.
+
 Projects Section - Contains a link that goes to my github to show all of my projects.
+
 Contact Section - Includes a form for visitors to send my messages directly through the website.
+
 Navigation Bar - Allows easy access to different sections of the website with smooth scrolling.
+
 Parallax Background - Adds a visual effect to the home section.
+
 Responsive Design - The website looks good on all devices, from desktops to smartphones.
 
 - What technology used and how it is used
