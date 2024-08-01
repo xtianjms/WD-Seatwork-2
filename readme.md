@@ -87,7 +87,9 @@ Responsive Design - The website looks good on all devices, from desktops to smar
 - What technology used and how it is used
 
 HTML - Provides the structure of the website
+
 CSS - Styles the website with responsive design.
+
 Javascript - Add interactivity to the webiste
 ### Key Components
 <!-- TODO: List of Key Components -->
