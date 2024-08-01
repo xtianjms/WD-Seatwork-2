@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">About me</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+A website that presents my resume and projects
 </div>
 
 <br />
@@ -57,14 +57,26 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project is a "About Me" website designed to showcase my personal information, resume and projects. The website features a simple design with smooth scrolling, parallax transitions, and responsive layout to provide a responsive experience on both desktop and mobile devices.
 
 Guiding Question:
 - What is the project
+The project is a "About me" website. It is intended to give visitors an overview of who am I, what are my projects, and how to contact me. The website includes sections such as Home, About, Resume, Projects, and Contact, each providing relevant information about my background, skills, experiences, and achievements.
 - Whats the purpose
+The purpose of this website is to present my resume, skills, and achievements. This includes the projects I've worked on, demonstrating my expertise and experience. Can also provide a way for viewers to reach out to me easily.
 - What are key components
+Home Section - Introduces visitors to the website with a welcoming message.
+About Section - Provides information about myself.
+Resume Section - Contains a link to view my resume.
+Projects Section - Contains a link that goes to my github to show all of my projects.
+Contact Section - Includes a form for visitors to send my messages directly through the website.
+Navigation Bar - Allows easy access to different sections of the website with smooth scrolling.
+Parallax Background - Adds a visual effect to the home section.
+Responsive Design - The website looks good on all devices, from desktops to smartphones.
 - What technology used and how it is used
-
+HTML - Provides the structure of the website
+CSS - Styles the website with responsive design.
+Javascript - Add interactivity to the webiste
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
@@ -117,4 +129,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Aesthetic color palette | Provides color palette | https://onextstudio.com/wp-content/uploads/2024/04/aesthetic-color-palettes-chart-with-names-and-hex-codes.png |
