@@ -61,18 +61,29 @@ This project is a "About Me" website designed to showcase my personal informatio
 
 Guiding Question:
 - What is the project
+
 The project is a "About me" website. It is intended to give visitors an overview of who am I, what are my projects, and how to contact me. The website includes sections such as Home, About, Resume, Projects, and Contact, each providing relevant information about my background, skills, experiences, and achievements.
 - Whats the purpose
+
 The purpose of this website is to present my resume, skills, and achievements. This includes the projects I've worked on, demonstrating my expertise and experience. Can also provide a way for viewers to reach out to me easily.
 - What are key components
+
 Home Section - Introduces visitors to the website with a welcoming message.
+
 About Section - Provides information about myself.
+
 Resume Section - Contains a link to view my resume.
+
 Projects Section - Contains a link that goes to my github to show all of my projects.
+
 Contact Section - Includes a form for visitors to send my messages directly through the website.
+
 Navigation Bar - Allows easy access to different sections of the website with smooth scrolling.
+
 Parallax Background - Adds a visual effect to the home section.
+
 Responsive Design - The website looks good on all devices, from desktops to smartphones.
+
 - What technology used and how it is used
 HTML - Provides the structure of the website
 CSS - Styles the website with responsive design.
